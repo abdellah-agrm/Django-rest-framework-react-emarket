@@ -77,4 +77,3 @@ Follow these steps to get the project up and running on your local machine:
 - Special thanks to all contributors and open-source libraries that made this project possible.
 
 Thank you for using Emarket! If you have any questions or issues, please feel free to open an [issue](https://github.com/TheAdmi/Emarket/issues) on GitHub.
-```
